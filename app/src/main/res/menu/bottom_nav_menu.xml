@@ -10,6 +10,11 @@
         android:id="@+id/blogFragment"
         android:icon="@drawable/ic_blog"
         android:title="Blog" />
+    
+    <item
+        android:id="@+id/searchFragment"
+        android:icon="@drawable/ic_search"
+        android:title="Search" />
 
     <item
         android:id="@+id/bookmarkFragment"
